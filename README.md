@@ -22,4 +22,5 @@ For more info read the following article:
 DOI: [10.1109/AMPS55790.2022.9978837](http://dx.doi.org/10.1109/AMPS55790.2022.9978837)
 
 The Matlab\Simulink Block is available on Mathworks:
+[![View Phasor Measurment Unit (Single-Phase M-Class) on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/118190-phasor-measurment-unit-single-phase-m-class)
 [Single-Phase M-Class PMU (Phasor Measurment Unit)](https://it.mathworks.com/matlabcentral/fileexchange/118190-single-phase-m-class-pmu-phasor-measurment-unit?s_tid=prof_contriblnk)
